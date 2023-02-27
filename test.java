@@ -33,7 +33,6 @@ import java.util.logging.Logger;
 import database.JDBC;
 
 import java.awt.event.ActionListener;
-//import java.sql.Connection;
 import java.awt.event.ActionEvent;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.ImageIcon;
@@ -81,7 +80,6 @@ public class test extends JFrame {
 	private JLabel lblNewLabel_7;
 	private JLabel lblNewLabel_8;
 	private JLabel lblNewLabel_9;
-	private bangdulieu[] list;
 
     JDBC sc = new JDBC();
 	private int stt;
