@@ -26,9 +26,6 @@ import javax.swing.table.DefaultTableModel;
 import com.mysql.cj.x.protobuf.MysqlxCrud.Delete;
 import com.mysql.cj.xdevapi.Table;
 
-import DTO.bangdulieu;
-import DTO.bangdulieuDAO;
-
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
